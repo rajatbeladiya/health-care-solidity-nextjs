@@ -15,7 +15,7 @@
     "ganache-cli": "^6.9.1",
     "next": "^9.3.6",
     "next-routes": "^1.4.2",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "semantic-ui-react": "^0.88.2",
